@@ -47,3 +47,14 @@
     }
   ]
 }# https-bolt.new-sb1-d7kc6o3b
+
+"Analyze the uploaded image of household or industrial waste. Identify the primary material composition (e.g., HDPE plastic, corrugated cardboard, aluminum, steel hardware). Map the detected object to its nearest structural category, estimate its dimensional scale, and list three potential upcycled utility applications based on its material rigidity and form factor."
+{
+  "material_id": "hdpe_plastic_jug_gallon",
+  "category": "Rigid Plastic",
+  "tensile_strength": "Medium-Low",
+  "load_bearing_capacity": "Non-structural / Enclosure or Panel",
+  "cutting_tools_required": ["Utility Knife", "Tin Snips"],
+  "joining_methods": ["Zip Ties", "Hot Glue", "Rivet Fasteners"],
+  "common_sources": ["Milk jugs", "Laundry detergent containers"]
+}
